@@ -1,0 +1,135 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="231" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="Src/task/task_node.c" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_tag" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="4" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pro_test1_1" radix="16" sizeText="500" addressText="0x200084F8"/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_node" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_tag" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pro_test1_1" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_node" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_tag" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pro_test1_1" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_node" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_tag" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="pro_test1_1" radix="16" sizeText="" addressText=""/>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="dw_pdoa_node" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="base_nrf52832"/>
+  <ProjectSessionItem path="base_nrf52832;dw_pdoa_node"/>
+  <ProjectSessionItem path="base_nrf52832;dw_pdoa_node;Src"/>
+  <ProjectSessionItem path="base_nrf52832;dw_pdoa_node;Src;bare"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_tag" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pro_test1_1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_node" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_tag" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pro_test1_1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_node" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_tag" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pro_test1_1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_node" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_tag" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="pro_test1_1" decimalNodes="" octalNodes="" unsignedNodes=""/>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dw_pdoa_node" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second">
+   <Watchpoint expression="ret" name="ret" radix="16" linenumber="219" filename="Src/task/task_node.c"/>
+   <Watchpoint expression="start_not" name="start_not" radix="16" linenumber="385" filename="Src/main.c"/>
+   <Watchpoint expression="monitor_timer" name="monitor_timer" radix="-1" linenumber="390" filename="Src/main.c"/>
+   <Watchpoint expression="knownTagList" name="knownTagList" radix="16" linenumber="56" filename="Src/bare/tag_list.c"/>
+   <Watchpoint expression="app" name="app" radix="-1" linenumber="48" filename="Src/main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="80" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/main.c" selected="0" top="58" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="158" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/src/nrfx_timer.c" selected="0" top="129" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="43" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/freertos/source/timers.c" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="204" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/bare/timer_ultrasonic.c" selected="0" top="177" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="73" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/include/nrfx_timer.h" selected="0" top="61" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="5467" useTextEdit="1" useBinaryEdit="0" left="0" path="config/sdk_config.h" selected="0" top="5451" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="68" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/bare/config.c" selected="0" top="53" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="75" useTextEdit="1" useBinaryEdit="0" left="0" path="../../integration/nrfx/legacy/nrf_drv_timer.h" selected="0" top="56" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1056" useTextEdit="1" useBinaryEdit="0" left="0" path="../../integration/nrfx/legacy/apply_old_config.h" selected="0" top="1036" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="88" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/nrfx_common.h" selected="0" top="88" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="98" useTextEdit="1" useBinaryEdit="0" left="0" path="../../components/libraries/util/app_error_weak.c" selected="0" top="79" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="48" useTextEdit="1" useBinaryEdit="0" left="0" path="../../components/libraries/util/app_error_handler_gcc.c" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="163" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/dw_pdoa_node_common.c" selected="0" top="141" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="530" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/src/nrfx_gpiote.c" selected="0" top="517" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="510" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/segger_rtt/SEGGER_RTT_printf.c" selected="0" top="491" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="39" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/mdk/ses_nrf52_Vectors.s" selected="0" top="28" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1072" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/bare/node.c" selected="0" top="1046" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="230" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/task/task_node.c" selected="0" top="215" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="54" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/Inc/error.h" selected="0" top="35" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="473" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/src/nrfx_uart.c" selected="0" top="453" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="72" useTextEdit="1" useBinaryEdit="0" left="0" path="../../integration/nrfx/legacy/nrf_drv_uart.c" selected="0" top="72" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="77" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/port/deca_uart.c" selected="0" top="70" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="544" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/freertos/source/CMSIS_RTOS/cmsis_os.c" selected="0" top="524" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="80" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/src/prs/nrfx_prs.c" selected="0" top="61" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="521" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/src/nrfx_uarte.c" selected="0" top="502" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="320" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/freertos/portable/CMSIS/nrf52/port_cmsis.c" selected="0" top="292" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="50" useTextEdit="1" useBinaryEdit="0" left="0" path="../../components/libraries/util/nrf_assert.c" selected="0" top="31" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="255" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/freertos/source/CMSIS_RTOS/cmsis_os.h" selected="0" top="235" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="33" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/task/task_ctrl.c" selected="0" top="18" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="78" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/task/task_flush.c" selected="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="592" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/freertos/source/event_groups.c" selected="0" top="573" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="179" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/freertos/config/FreeRTOSConfig.h" selected="0" top="165" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="79" useTextEdit="1" useBinaryEdit="0" left="0" path="../../components/libraries/util/app_util_platform.h" selected="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="79" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/Inc/dw_pdoa_node_common.h" selected="0" top="64" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1902" useTextEdit="1" useBinaryEdit="0" left="0" path="../../deca_driver/deca_device.c" selected="0" top="1889" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="1095" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/bare/cmd_fn.c" selected="1" top="1074" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="986" useTextEdit="1" useBinaryEdit="0" left="0" path="../../deca_driver/deca_device_api.h" selected="0" top="975" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="368" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/Inc/node.h" selected="0" top="348" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="32" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/mdk/system_nrf52.h" selected="0" top="9" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="113" useTextEdit="1" useBinaryEdit="0" left="0" path="../../components/libraries/uart/app_uart.h" selected="0" top="73" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="147" useTextEdit="1" useBinaryEdit="0" left="0" path="../../components/libraries/uart/app_uart_fifo.c" selected="0" top="141" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="211" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/Inc/port.h" selected="0" top="173" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="23" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/task/task_uart2spi.c" selected="0" top="5" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="36" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/Inc/util.h" selected="0" top="15" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/Inc/uwb_frames.h" selected="0" top="32" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="703" useTextEdit="1" useBinaryEdit="0" left="0" path="../../external/freertos/source/include/FreeRTOS.h" selected="0" top="685" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="799" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/bare/json_2pc.c" selected="0" top="778" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="109" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/bare/tag_list.c" selected="0" top="80" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="363" useTextEdit="1" useBinaryEdit="0" left="0" path="../../modules/nrfx/drivers/src/nrfx_rtc.c" selected="0" top="344" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="132" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/bare/cmd.c" selected="0" top="106" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="163" useTextEdit="1" useBinaryEdit="0" left="0" path="Src/Inc/default_config.h" selected="0" top="156" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="dw_pdoa_node" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.16a/source/thumb_crt0.s&#xa;&#xa;C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.18/source/thumb_crt0.s&#xa;" fileDialogInitialDirectory="F:/NRF52832/wheelchair/node_source_wheelchair/examples/dw_pdoa_node/Src/bare" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>

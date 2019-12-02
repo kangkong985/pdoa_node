@@ -1,0 +1,13 @@
+OpenDocument="app_error_weak.c", FilePath="/home/hccc/work/pro_test1_1/components/libraries/util/app_error_weak.c", Line=67
+OpenDocument="ses_nRF_Startup.s", FilePath="/home/hccc/work/pro_test1_1/modules/nrfx/mdk/ses_nRF_Startup.s", Line=60
+OpenDocument="main.c", FilePath="/home/hccc/work/pro_test1_1/examples/pro_test1_1/Src/main.c", Line=38
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=1, w=300, h=330, FilterBarShown=0, FilteredItems=[]
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=300, h=331, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Source", x=0, y=0, w=0, h=0, FilterBarShown=0, ExecCountersShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=836, h=243, FilterBarShown=0, EditorAddress=0x0
+OpenWindow="Functions", DockArea=LEFT, x=0, y=0, w=300, h=667, FilterBarShown=1
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=838, h=243, FilterBarShown=0
+TableHeader="Functions", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Address";"Size";"#Insts";"Source"], ColWidths=[59;71;48;59;64]
+TableHeader="tableWidgetSamples", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Channel 0"], ColWidths=[84;119;126]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[46;42;197]
